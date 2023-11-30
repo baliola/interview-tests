@@ -16,6 +16,8 @@ import { strictEqual } from 'assert';
  * - Implement the notify method to send a message to all the receivers.
  *
  * Good luck!
+ * 
+ * ------------------------------- NO AI ASSITANT!!!! -------------------------------
  */
 
 export class MessageReceiver {
